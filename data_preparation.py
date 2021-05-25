@@ -1,6 +1,6 @@
 from numpy import array
 
-all_views = []
+all_views = [12, 34 ,22, 10, 40, {...}]
 
 X = []
 y = []
