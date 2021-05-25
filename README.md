@@ -1,1 +1,3 @@
-# MLP_predict_medium_stats
+# Forecasting Medium Stats with a simple MLP
+
+[Read the Blog] (https://medium.com/@tdpdev)
