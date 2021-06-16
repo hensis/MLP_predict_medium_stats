@@ -10,7 +10,7 @@
 - Training and predicting
 - Improvements and future work
 
-> The following readme only guides you through the main points of the topic, if you want to have a full understanding of what's going on here [Read the Blog](https://betterprogramming.pub/predict-your-future-medium-stats-using-deep-learning-ce49bb3361ea)
+> **The following readme only guides you through the main points of the topic, if you want to have a full understanding of what's going on here [Read the Blog](https://betterprogramming.pub/predict-your-future-medium-stats-using-deep-learning-ce49bb3361ea)**
 
 
 
